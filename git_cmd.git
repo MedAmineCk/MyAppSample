@@ -23,4 +23,6 @@ git commit -m 'type her a comment describe what you did'
 .gitignore ==> name of the file o directory you want to ignore
 .gitignore ==> file.txt /dir2 #will ignore the two files together
 
+git checkout <branch name>
+
 
