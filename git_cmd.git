@@ -25,4 +25,12 @@ git commit -m 'type her a comment describe what you did'
 
 git checkout <branch name>
 
+git remote add origin URL
+git remote
+git push -u origin master
+
+git push
+
+git clone URL
+
 
